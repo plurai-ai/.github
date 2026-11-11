@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/plurai-ai/.github/refs/heads/main/static/banner.png" alt="Plurai" />
+
 # Plurai
 
 **The recursive self-improvement layer for AI agents.**
